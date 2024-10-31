@@ -31,9 +31,9 @@ header {
     margin-bottom: 10px;
 }
 .box {
-    height: 250px;
+    height: 230px;
     width: calc((100% - 10px) / 3);
-    line-height: 250px;
+    line-height: 230px;
 }
 .box, footer, .area, header {
     background-color: #aaa;
