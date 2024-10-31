@@ -22,8 +22,8 @@ header{
     margin-bottom: 10px;
 }
 .box {
-    height: 250px;
-    line-height: 250px;
+    height: 230px;
+    line-height: 230px;
 }
 footer, .box, .area, header {
     background-color: #aaa;
