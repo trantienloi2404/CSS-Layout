@@ -1,0 +1,58 @@
+.logo{
+  height: 7%;
+  line-height: 2;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+span{
+  margin-left: 10px;
+  font-family: sans-serif;
+}
+.navigation{
+  margin: 10px 0;
+  font-size: 20px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.banner{
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0;
+  font-family: sans-serif;
+}
+.content{
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  font-size: 20px;
+  margin: 10px 0;
+  font-family: sans-serif;
+}
+.bar{
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+.body{
+  width: calc(70% - 1rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+footer{
+  text-align: center;
+  font-family: sans-serif;
+}
+.logo, .navigation, .banner, .bar,.body, footer {
+  background-color: #aaa;
+  font-family: sans-serif;
+}
