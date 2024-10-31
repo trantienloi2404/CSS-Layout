@@ -41,9 +41,9 @@ header{
     float: left;
     margin-right: 5px;
     margin-left: 5px;
-    height: 250px;
+    height: 230px;
     width: calc((100% - 20px) / 3);
-    line-height: 250px;
+    line-height: 230px;
 }
 .box:first-child {
     margin-left: 0;
